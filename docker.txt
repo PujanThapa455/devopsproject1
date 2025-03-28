@@ -1,0 +1,28 @@
+Docker
+
+In a developing environment , imagine yourself working on a project 1) react fronted 2) Python API 3) PostgreSQL 
+you have to have install react , python & postgresql 
+
+and make sure u have same version as other developer  or whats used in production
+
+##scenario 1
+  You have node version 17 install in your machine but your project required ver:16  so in order what do you do inorder to resolve the conflict.
+
+ here comes the idea of containership:
+ what is conatiner?
+ Container are isolated processes for each of your app's component. They share host kernel. On windows they use windows subsystem for linux (WSL2) 
+ Some of its features are
+
+ a) Self -conatiner
+ b) Isolated
+ c) Independent
+ d) Portable : It can run anywhere. i.e cloud, local machine ,server etc
+
+question#
+Container vs VM
+
+
+
+
+
+
