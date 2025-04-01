@@ -44,6 +44,10 @@ Algorithm :
   ->docker rm nginx-container # remove container
 
 
+git push --force origin docker
+
+
+
 
 
 
